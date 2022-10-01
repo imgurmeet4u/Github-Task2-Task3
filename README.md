@@ -4,8 +4,13 @@
 
 ### Baby Steps To Learn Data Science From None To Master
 
-1.	Project Implementation Architecture
+1. Project Implementation Architecture
 
 ![](images/OriginalArchitecture.jpg)
 
-is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
+2. Git and GitHub - It is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration for every project.
+
+3. Dockers
+
+
+## You are open to contribute your experience related to data science learnings and best practises, which can be the edge and help to compete in the growing competition.
