@@ -14,5 +14,6 @@
 
 "Docker is an open platform for developing, shipping, and running applications."
 
+While Docker is a container runtime, Kubernetes is a platform for running and managing containers from many container runtimes.
 
 ## You are open to contribute your experience related to data science learnings and best practises, which can be the edge and help to compete in the growing competition.
