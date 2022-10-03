@@ -14,9 +14,9 @@
 
 "Docker is an open platform for developing, shipping, and running applications."
 
-# Who can contribute on this project?
+## Who can contribute on this project?
 
-# Anyone who wants to add their experience related to the field or a learner who has a understanding related to the topics can contribute.
+## Anyone who wants to add their experience related to the field or a learner who has a understanding related to the topics can contribute.
 
 
 ## You are open to contribute your experience related to data science learnings and best practises, which can be the edge and help to compete in the growing competition.
