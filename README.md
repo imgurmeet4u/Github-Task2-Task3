@@ -4,9 +4,15 @@
 
 ### Baby Steps To Learn Data Science From None To Master
 
+How the project is started in the industry and the team contribution to start new project?
+
+Below is the Implementation Architecture to start with
+
 1. Project Implementation Architecture
 
 ![](images/OriginalArchitecture.jpg)
+
+Basic things to know--------
 
 2. Git and GitHub - It is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration for every project.
 
